@@ -1,0 +1,4 @@
+Words words words.
+So many words and so little time.
+Let's use Python to read the words and summarize them for us.
+A little Python is a powerful thing.
